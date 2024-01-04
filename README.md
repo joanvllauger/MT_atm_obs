@@ -26,6 +26,8 @@ Can be downloaded from: https://paos.colorado.edu/research/wavelets/
 Pawlowicz, R., 2020. "M_Map: A mapping package for MATLAB", version 1.4m, [Computer software], available online at www.eoas.ubc.ca/~rich/map.html.
 Can be downloaded from: https://www.eoas.ubc.ca/~rich/map.html
 
+Moreover, all these scripts have been run in Matlab R2021a, the may present some problemes in other versions.
+
 3- Data processing 
 
 The data processing codes used before plotting the figures are placed in the main directory. 
