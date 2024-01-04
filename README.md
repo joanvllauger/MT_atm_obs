@@ -2,10 +2,15 @@
 This folder contains all the codes necessary to reproduce the figure from the article:
 
 Observational characterization of atmospheric disturbances generating meteotsunamis in the Balearic Islands
+
 Joan Villalonga*(1,2), Sebastià Monserrat (1), Damià Gomis (1,3), Gabriel Jordà*(2)
+
 (1) Departament de Física (UIB), Palma, Spain.
+
 (2) Centre Oceanogràfic de Balears, CN-Instituto Español de Oceanografía (IEO-CSIC), Palma, Spain. 
+
 (3) Institut Mediterrani d’Estudis Avançats (UIB-CSIC), Esporles, Spain.
+
 Correponding Email: joan.villalonga@uib.cat 
 
 1- Data 
