@@ -9,11 +9,13 @@ Joan Villalonga*(1,2), Sebastià Monserrat (1), Damià Gomis (1,3), Gabriel Jord
 Correponding Email: joan.villalonga@uib.cat 
 
 1- Data 
+
 The raw data files used are too heavy to be uploaded to GitHub reason why they must be found in the Zenodo repository: 
 
 Once the data have been downloaded it must be placed inside a directory called data in the main directory.
 
 2- Before running
+
 Before running the programs developed for this study two Matlab packages must be downloaded and stored in the main directory:
 
 - Wavelet package:
@@ -25,6 +27,7 @@ Pawlowicz, R., 2020. "M_Map: A mapping package for MATLAB", version 1.4m, [Compu
 Can be downloaded from: https://www.eoas.ubc.ca/~rich/map.html
 
 3- Data processing 
+
 The data processing codes used before plotting the figures are placed in the main directory. 
 
 There are 6 different codes that must be run in order:
@@ -39,4 +42,5 @@ There are 6 different codes that must be run in order:
 ** Note that by combining this repository with the data in the Zenodo XXXXX the reader have already the output of running all these functions. Therefore it should not be necessary to run them before using the scripts that generate the figure. 
 
 4- Figures
+
 Once all the 6 programs have been successfully run the reader can go to the figure_codes to generate any of the figures that are in the manuscript. 
