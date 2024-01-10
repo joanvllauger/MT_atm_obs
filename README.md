@@ -61,7 +61,7 @@ There are 6 different codes that must be run in order:
 -  C4_prop_vel_freq: uses the atmospheric pressure time series cut for each event in C3 to estimate the propagation velocity of the atmospheric perturbation generation in each of the events. To understand how the propagation velocity is estimated read Supplementary Information 1. This code does the propagation velocity estimation for the different frequency bands that can be found in Supplementary Information 5.
 -  C5_lag_corr_events_12h: This code generates the maximum lagged correlation coefficient matrix between the atmospheric pressure time series measured at all the meteorological stations during the 12 hours centered at the time of each meteotsunami event. These correlation matrices will be stored and later used to estimate the EOFs of the atmospheric disturbances.
 
-** Note that by combining this repository with the data in the Zenodo XXXXX the reader have already the output of running all these functions. Therefore it should not be necessary to run them before using the scripts that generate the figure. 
+** Note that by combining this repository with the data in the Zenodo 10.5281/zenodo.10478602 the reader have already the output of running all these functions. Therefore it should not be necessary to run them before using the scripts that generate the figure. 
 
 4- Figures
 
