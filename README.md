@@ -15,7 +15,7 @@ Corresponding email:
 
 1- Data 
 
-The raw data files used are too heavy to be uploaded to GitHub reason why they must be found in the Zenodo repository: (10.5281/zenodo.10478602)
+The raw data files used are too heavy to be uploaded to GitHub reason why they must be found in the Zenodo repository: https://10.5281/zenodo.10478602
 
 There are 7 data files:
 
