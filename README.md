@@ -11,7 +11,7 @@ Joan Villalonga*(1,2), Sebastià Monserrat (1), Damià Gomis (1,3), Gabriel Jord
 
 (3) Institut Mediterrani d’Estudis Avançats (UIB-CSIC), Esporles, Spain.
 
-Corresponding email: joan.villalonga@uib.cat 
+Corresponding email: (mailto:joan.villalonga@ieo.csic.es) 
 
 1- Data 
 
