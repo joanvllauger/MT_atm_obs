@@ -3,7 +3,7 @@ This folder contains all the codes necessary to reproduce the figure from the ar
 
 Observational characterization of atmospheric disturbances generating meteotsunamis in the Balearic Islands
 
-Joan Villalonga*(1,2), Sebastià Monserrat (1), Damià Gomis (1,3), Gabriel Jordà*(2)
+[Joan Villalonga](mailto:joan.villalonga@ieo.csic.es)*(1,2), Sebastià Monserrat (1), Damià Gomis (1,3), Gabriel Jordà*(2)
 
 (1) Departament de Física (UIB), Palma, Spain.
 
@@ -11,7 +11,7 @@ Joan Villalonga*(1,2), Sebastià Monserrat (1), Damià Gomis (1,3), Gabriel Jord
 
 (3) Institut Mediterrani d’Estudis Avançats (UIB-CSIC), Esporles, Spain.
 
-Corresponding email: (mailto:joan.villalonga@ieo.csic.es) 
+Corresponding email:  
 
 1- Data 
 
